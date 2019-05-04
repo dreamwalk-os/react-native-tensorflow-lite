@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

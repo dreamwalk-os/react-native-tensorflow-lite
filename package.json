@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/joshnissenbaum/react-native-tensorflow-lite.git",
+      "/Users/joshnissenbaum/Programming/RM-App"
+    ]
+  ],
+  "_from": "git+https://github.com/joshnissenbaum/react-native-tensorflow-lite.git",
+  "_id": "react-native-tensorflow-lite@git+https://github.com/joshnissenbaum/react-native-tensorflow-lite.git#412ebf81f936f89676b31519965221244e248360",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-tensorflow-lite",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/joshnissenbaum/react-native-tensorflow-lite.git",
+    "rawSpec": "git+https://github.com/joshnissenbaum/react-native-tensorflow-lite.git",
+    "saveSpec": "git+https://github.com/joshnissenbaum/react-native-tensorflow-lite.git",
+    "fetchSpec": "https://github.com/joshnissenbaum/react-native-tensorflow-lite.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/joshnissenbaum/react-native-tensorflow-lite.git#412ebf81f936f89676b31519965221244e248360",
+  "_spec": "git+https://github.com/joshnissenbaum/react-native-tensorflow-lite.git",
+  "_where": "/Users/joshnissenbaum/Programming/RM-App",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/jazzystring1/react-native-tensorflow-lite/issues"
+  },
+  "description": "A react native library for running Tensorflow Lite on Android",
+  "homepage": "https://github.com/jazzystring1/react-native-tensorflow-lite#readme",
+  "keywords": [
+    "react-native",
+    "tensorflow lite",
+    "tensorflow"
+  ],
+  "license": "",
+  "main": "index.js",
+  "name": "react-native-tensorflow-lite",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazzystring1/react-native-tensorflow-lite.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.6"
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/58d43d429ec7312d20e156786d6f066f/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/58d43d429ec7312d20e156786d6f066f/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/58d43d429ec7312d20e156786d6f066f/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/58d43d429ec7312d20e156786d6f066f/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/58d43d429ec7312d20e156786d6f066f/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/58d43d429ec7312d20e156786d6f066f/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate/node_modules/react-native-tensorflow-lite/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/joshnissenbaum/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8534abda9fade1f0fcc7041eb7a6154f/res/anim/abc_slide_in_bottom.xml"
+    }
+]
